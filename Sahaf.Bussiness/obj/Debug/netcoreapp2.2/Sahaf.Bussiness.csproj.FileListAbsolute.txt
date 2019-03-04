@@ -1,0 +1,12 @@
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\bin\Debug\netcoreapp2.2\Sahaf.Entity.dll
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\obj\Debug\netcoreapp2.2\Sahaf.Bussiness.csprojAssemblyReference.cache
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\obj\Debug\netcoreapp2.2\Sahaf.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\obj\Debug\netcoreapp2.2\Sahaf.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\obj\Debug\netcoreapp2.2\Sahaf.Bussiness.AssemblyInfo.cs
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\bin\Debug\netcoreapp2.2\Sahaf.Bussiness.deps.json
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\bin\Debug\netcoreapp2.2\Sahaf.Bussiness.dll
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\bin\Debug\netcoreapp2.2\Sahaf.Bussiness.pdb
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\bin\Debug\netcoreapp2.2\Sahaf.Entity.pdb
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\obj\Debug\netcoreapp2.2\Sahaf.Bussiness.csproj.CopyComplete
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\obj\Debug\netcoreapp2.2\Sahaf.Bussiness.dll
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Bussiness\obj\Debug\netcoreapp2.2\Sahaf.Bussiness.pdb

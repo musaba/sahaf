@@ -1,0 +1,9 @@
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Entity\bin\Debug\netcoreapp2.2\Sahaf.Entity.deps.json
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Entity\bin\Debug\netcoreapp2.2\Sahaf.Entity.dll
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Entity\obj\Debug\netcoreapp2.2\Sahaf.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Entity\obj\Debug\netcoreapp2.2\Sahaf.Entity.AssemblyInfoInputs.cache
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Entity\obj\Debug\netcoreapp2.2\Sahaf.Entity.AssemblyInfo.cs
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Entity\bin\Debug\netcoreapp2.2\Sahaf.Entity.pdb
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Entity\obj\Debug\netcoreapp2.2\Sahaf.Entity.dll
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Entity\obj\Debug\netcoreapp2.2\Sahaf.Entity.pdb
+C:\Users\Extreme-D\Desktop\Sahaf\Sahaf.Entity\obj\Debug\netcoreapp2.2\Sahaf.Entity.csprojAssemblyReference.cache
